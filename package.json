@@ -1,0 +1,24 @@
+{
+  "name": "log-with-redis",
+  "version": "1.0.0",
+  "description": "log all incoming and outcoming request to redis db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/includeamin/log-with-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "nodejs",
+    "log"
+  ],
+  "author": "amin jamal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/includeamin/log-with-redis/issues"
+  },
+  "homepage": "https://github.com/includeamin/log-with-redis#readme"
+}
